@@ -1,0 +1,80 @@
+.menu {
+    width : 100%;
+    border:0 ;
+    background-color:#EEE5DE;
+}
+
+.menunomes {
+    text-align:center;
+    width:77;
+    background-color: #EEE5DE;
+
+}
+
+.menu2 {
+    background-color: white;
+
+}
+
+
+body {
+    background-color: #778899;
+    
+}
+
+.index{
+    width: 400;
+    border: 0;
+    text-align: center;
+
+}
+.tdindex{
+    background-color: white;
+}
+
+.tdindex1{
+    text-align: center;
+    column-span: 2;
+}
+.tdindex2{
+    text-align: right;
+    width: 30%;
+
+}
+
+
+
+.tdindex4{
+    text-align: right;
+    width: 30%;
+
+}
+.tdindex5{
+    width: 80px;
+    size: 5;
+}
+
+.tdindex6{
+    width: 80px;
+    
+
+
+}
+.tabletd{
+    width: 100%;
+    border: 0;
+    text-align: center;
+}
+
+.login{
+   
+    width: 80px;
+    font-size: 30;
+
+}
+.ls{
+    display: inline-block
+    ; 
+}
+
+
