@@ -1,0 +1,67 @@
+body{
+    background-color: #778899;
+}    
+
+.table1{
+    width: 700;
+    text-align: center;
+    border: 0;
+}
+
+.td1 {
+    vertical-align: top;
+    width: 100%;
+    text-align: center;
+}
+
+.td2 {
+    vertical-align: top;
+}
+.table2{
+    width: 100%;
+    border: 0;
+    text-align: center;
+}
+.tdform{
+    background-color: white;   
+}
+.tableform{
+    width: 100%;
+    border:0 ;
+    text-align: center;
+}
+.tdform2{
+    text-align: right;
+    column-span: 2;
+
+}
+.tdform3{
+     text-align: right;
+     width: 30%;
+}
+.input1{
+    initial-value: "";
+    size: 30;
+   
+}
+.tdform4{
+    text-align: right;
+    width: 30%;
+}
+.input2{
+    initial-value: "";
+    size: 30;
+}
+.input3{
+    initial-value: "";
+    size: 3;
+}
+.input4{
+    initial-value: "";
+    size: 7;
+}
+.input5{
+    initial-value: "";
+    size: 30;
+}
+

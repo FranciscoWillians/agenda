@@ -1,0 +1,65 @@
+body {
+    background-color: #778899;
+}
+
+table{
+    border: 0;
+    text-align: center;
+    background-color: white;
+    width: 700;
+
+   
+    
+
+}
+
+.td1{
+    vertical-align: top;
+    width: 100%;
+    text-align: center;
+}
+
+.td2{
+    vertical-align: top;
+}
+
+.table2{
+    border-spacing: 1;
+    padding: 1;
+    width: 100%;
+    border: 0;
+    background-color: white;
+}
+
+.Editar{
+    width: 60;  
+}
+.Nome{
+    width: 210;
+}
+.Email{
+    width: 210;
+}
+.Fone{
+    width: 100;
+}
+.Excluir{
+    width: 60;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

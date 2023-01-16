@@ -20,6 +20,7 @@ $_SESSION['USUARIO']  = NULL;  //Limpa a sessão se existir
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agenda</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="login.php" href="login.php">
 
 </head>
 
@@ -52,7 +53,7 @@ $_SESSION['USUARIO']  = NULL;  //Limpa a sessão se existir
         <td class="tdindex">
             <table class="tabletd">
                 <tr>
-                    <td class="tdindex1">.:<b>Bem-vindo. Por favor Informe seus dados</b>:.</td>
+                    <td class="tdindex1"><b>Bem-vindo. Por favor Informe seus dados</b></td>
                 </tr>
                 <tr>
                     <td class="tdindex2"><b>LOGIN</b>.:&NonBreakingSpace;</td>
@@ -73,5 +74,3 @@ $_SESSION['USUARIO']  = NULL;  //Limpa a sessão se existir
 </form>
 </body>
 </html> 
-
-
